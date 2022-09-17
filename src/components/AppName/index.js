@@ -1,6 +1,6 @@
 import { Text, StyleSheet } from "react-native";
 
-/*export default function AppName({ children }) {
+/*export default function Estacio({ children }) {
     return (
         <Text style={StyleSheet.appName}>
             {children}
